@@ -9,7 +9,7 @@ const CookieClicker = () => {
     <div>
       <button onClick={handleClick}>
         <img
-          src="/cookie.png"
+          src="/cookies.png"
           alt="Image of a Cookie"
           style={{ width: "100px" }}
         />
